@@ -10,9 +10,6 @@ A simple, elegant, and responsive To-Do List web application built with HTML, CS
 - Automatically saves and loads tasks using `localStorage`
 - Responsive and user-friendly design
 
-## 🚀 Live Demo
-
-[Click here to try it live](#) <!-- You can replace `#` with your GitHub Pages or hosted link -->
 
 
 ## 🛠️ Tech Stack
