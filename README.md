@@ -18,5 +18,3 @@ A simple, elegant, and responsive To-Do List web application built with HTML, CS
 - CSS3
 - JavaScript (Vanilla)
 
-## 📁 Folder Structure
-
